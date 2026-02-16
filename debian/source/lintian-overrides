@@ -1,0 +1,4 @@
+python-colorama source: file-without-copyright-information
+python-colorama source: no-debian-changes
+python-colorama source: source-contains-prebuilt-windows-binary
+python-colorama source: source-package-encodes-python-version
