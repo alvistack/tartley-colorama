@@ -35,7 +35,7 @@ setup(
     name=NAME,
     version=get_version(os.path.join('colorama', '__init__.py')),
     description='Cross-platform colored terminal text.',
-    long_description=read_file('README.rst'),
+    long_description='Makes ANSI escape character sequences (for producing colored terminal text and cursor positioning) work under MS Windows.',
     keywords='color colour terminal text ansi windows crossplatform xplatform',
     author='Jonathan Hartley',
     author_email='tartley@tartley.com',
